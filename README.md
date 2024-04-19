@@ -8,7 +8,7 @@ Lets Connect
 
 
 
-[Go to my Dashboard]([https://public.tableau.com/app/profile/gulshan.gedam/viz/NetflixProject-TableauDashboard/Netflix?publish=yes](https://public.tableau.com/app/profile/shobhit.srivastava1081/vizzes))
+
 
 ## PROJECT NAME: 
 
